@@ -1,0 +1,8 @@
+Proyecto desarrollado con IntelliJ.
+El entregable es el archivo MapReduceV1.rar. Este archivo contiene
+la implementación de MapReduce asíncrono en IntelliJ.
+primer argumento del programa es la ubicación del texto
+- Texto de prueba: text.txt
+- Se adjunta el archivo main.java que utiliza la misma logica
+pero no es asíncrono para realizar cualquier prueba de
+concurrencia.
